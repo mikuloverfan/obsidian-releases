@@ -29704,7 +29704,7 @@
       "id": "draft-paper",
       "name": "Draft Paper",
       "author": "mikuloverfan",
-      "description": "This plugin has not been manually reviewed by Obsidian staff. A draft and scrap paper plugin for temporary notes.",
+      "description": "A lightweight draft and scrap paper plugin for temporary notes and quick sketches.",
       "repo": "mikuloverfan/draft-paper"
   } 
 ]
