@@ -29700,4 +29700,11 @@
     "description": "This plugin has not been manually reviewed by Obsidian staff. An English learning plugin for grammar feedback, reading practice, vocabulary lookup, syntax analysis, and progress tracking.",
     "repo": "liuba1223/obsidian-english-assistant"
   }
+  {
+      "id": "draft-paper",
+      "name": "Draft Paper",
+      "author": "mikuloverfan",
+      "description": "This plugin has not been manually reviewed by Obsidian staff. A draft and scrap paper plugin for temporary notes.",
+      "repo": "mikuloverfan/draft-paper"
+  } 
 ]
